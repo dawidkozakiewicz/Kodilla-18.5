@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans');
+
+.UserForm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.UserInput {
+    padding: 20px;
+    font-size: 2em;
+    border: 0;
+    border: 5px solid blue;
+    width: 510px;
+    font-family: 'Fira Sans', sans-serif;
+}
